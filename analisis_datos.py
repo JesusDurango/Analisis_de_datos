@@ -10,3 +10,5 @@ edades =data["age"]
 edades_np = np.array(edades)
 
 promedio_edades = np.mean(edades_np)
+
+print (promedio_edades)
